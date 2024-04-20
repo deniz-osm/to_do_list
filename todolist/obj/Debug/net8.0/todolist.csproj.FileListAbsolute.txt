@@ -1,0 +1,14 @@
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/Users/annelie/Desktop/C# Prep/todolist/bin/Debug/net8.0/todolist
+/Users/annelie/Desktop/C# Prep/todolist/bin/Debug/net8.0/todolist.deps.json
+/Users/annelie/Desktop/C# Prep/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/Users/annelie/Desktop/C# Prep/todolist/bin/Debug/net8.0/todolist.dll
+/Users/annelie/Desktop/C# Prep/todolist/bin/Debug/net8.0/todolist.pdb
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.dll
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/refint/todolist.dll
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.pdb
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/Users/annelie/Desktop/C# Prep/todolist/obj/Debug/net8.0/ref/todolist.dll
